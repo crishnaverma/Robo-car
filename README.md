@@ -38,7 +38,7 @@ GND	GND
 TXD	RX (D0)
 RXD	TX (D1)
 
-⚠️ Note: Disconnect Bluetooth while uploading code to Arduino.
+⚠️ Note: Disconnect Bluetooth while uploading code to Arduino.(important steps)
 
 ✅ Power Supply
 
