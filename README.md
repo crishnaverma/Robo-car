@@ -42,4 +42,4 @@ RXD	TX (D1)
 
 ✅ Power Supply
 
-Motors powered through Motor Shield external battery
+Motors powered through Motor Shield external battery 
